@@ -41,7 +41,7 @@
   "dependencies": {
     "chalk": "~0.5.1",
     "maxmin": "~1.0.0",
-    "uncss": "~0.10.0"
+    "uncss": "https://github.com/henrjk/uncss/tarball/889797df660b39fa0f33649539729139a6d89b27"
   },
   "devDependencies": {
     "chai": "~1.10.0",
